@@ -1,4 +1,4 @@
-# wattch-shop-analitics
+# watch-shop-analytics
 
 This project I have analyzed data from http://watchshop.kz/ and https://time4u.kz. There were 
 problems with the first site that it was not possible to inspect the site to view the tags, which 
