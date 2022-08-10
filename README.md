@@ -18,3 +18,6 @@ the necessary libraries. And from the main page I collected all the links to the
 each product. After, from each detailed page, I also collected all the characteristics. I wrote the 
 received data to a file in csv format, so that every time I do not scrap the site, as it takes some 
 time. At this point, the data collection phase is over.
+
+### 
+[Results](https://github.com/Moali123-svg/wattch-shop-analytics/blob/main/project%20Results.pdf)
